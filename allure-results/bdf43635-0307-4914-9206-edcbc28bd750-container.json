@@ -1,0 +1,1 @@
+{"uuid":"bdf43635-0307-4914-9206-edcbc28bd750","name":"base.setupteardown.setup","children":["612b3989-b02c-42ab-b086-4dc0d684fbaf"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1787046183726,"stop":1787046196014}],"afters":[],"start":1787046183726,"stop":1787046196014}
