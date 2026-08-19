@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 8, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 39.63 s <<< FAILURE! -- in TestSuite
-tests.LoginTest.apiValidation -- Time elapsed: 5.776 s <<< FAILURE!
+Tests run: 8, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 40.66 s <<< FAILURE! -- in TestSuite
+tests.LoginTest.apiValidation -- Time elapsed: 4.747 s <<< FAILURE!
 java.lang.AssertionError: 
 1 expectation failed.
 Expected status code <201> but was <401>.

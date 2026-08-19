@@ -1,1 +1,0 @@
-{"uuid":"feefcb0c-ef3e-43c9-a8de-790bb6d07dc9","name":"base.setupteardown.teardown","children":["2a8ab187-9d22-40c1-8598-995cf69af779"],"description":"","befores":[],"afters":[{"name":"teardown","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1787047132576,"stop":1787047133160}],"start":1787047132576,"stop":1787047133160}

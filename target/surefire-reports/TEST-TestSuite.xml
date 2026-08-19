@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="39.635" tests="8" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="40.656" tests="8" errors="0" skipped="0" failures="1">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21.0.10\bin"/>
-    <property name="sun.java.command" value="C:\Users\kiranjyothi.chala\AppData\Local\Temp\surefire18045677723339601515\surefirebooter-20260819215723452_3.jar C:\Users\kiranjyothi.chala\AppData\Local\Temp\surefire18045677723339601515 2026-08-19T21-57-23_367-jvmRun1 surefire-20260819215723452_1tmp surefire_0-20260819215723452_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\kiranjyothi.chala\AppData\Local\Temp\surefire15104719066847121040\surefirebooter-20260819221327237_3.jar C:\Users\kiranjyothi.chala\AppData\Local\Temp\surefire15104719066847121040 2026-08-19T22-13-27_120-jvmRun1 surefire-20260819221327237_1tmp surefire_0-20260819221327237_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\TestLeaf\orangehrm\orangehrm\target\test-classes;C:\TestLeaf\orangehrm\orangehrm\target\classes;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-java\4.27.0\selenium-java-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-api\4.27.0\selenium-api-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\jspecify\jspecify\1.0.0\jspecify-1.0.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.27.0\selenium-chrome-driver-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.27.0\selenium-chromium-driver-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-json\4.27.0\selenium-json-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.27.0\selenium-manager-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v129\4.27.0\selenium-devtools-v129-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v130\4.27.0\selenium-devtools-v130-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v131\4.27.0\selenium-devtools-v131-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.27.0\selenium-devtools-v85-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.27.0\selenium-edge-driver-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.27.0\selenium-firefox-driver-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-http\4.27.0\selenium-http-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.27.0\selenium-ie-driver-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.27.0\selenium-remote-driver-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\google\guava\guava\33.3.1-jre\guava-33.3.1-jre.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\checkerframework\checker-qual\3.43.0\checker-qual-3.43.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\google\j2objc\j2objc-annotations\3.0.0\j2objc-annotations-3.0.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.25.0-alpha\opentelemetry-semconv-1.25.0-alpha.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\opentelemetry\opentelemetry-api\1.44.1\opentelemetry-api-1.44.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\opentelemetry\opentelemetry-context\1.44.1\opentelemetry-context-1.44.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.44.1\opentelemetry-exporter-logging-1.44.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.44.1\opentelemetry-sdk-common-1.44.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.44.1\opentelemetry-sdk-extension-autoconfigure-spi-1.44.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.44.1\opentelemetry-sdk-extension-autoconfigure-1.44.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\opentelemetry\opentelemetry-api-incubator\1.44.1-alpha\opentelemetry-api-incubator-1.44.1-alpha.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.44.1\opentelemetry-sdk-trace-1.44.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.44.1\opentelemetry-sdk-1.44.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.44.1\opentelemetry-sdk-metrics-1.44.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.44.1\opentelemetry-sdk-logs-1.44.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\net\bytebuddy\byte-buddy\1.15.10\byte-buddy-1.15.10.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-os\4.27.0\selenium-os-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\commons\commons-exec\1.4.0\commons-exec-1.4.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.27.0\selenium-safari-driver-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\seleniumhq\selenium\selenium-support\4.27.0\selenium-support-4.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\github\bonigarcia\webdrivermanager\5.9.2\webdrivermanager-5.9.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\github\docker-java\docker-java\3.4.0\docker-java-3.4.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\github\docker-java\docker-java-core\3.4.0\docker-java-core-3.4.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\github\docker-java\docker-java-api\3.4.0\docker-java-api-3.4.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.4.0\docker-java-transport-httpclient5-3.4.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\github\docker-java\docker-java-transport\3.4.0\docker-java-transport-3.4.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\commons\commons-lang3\3.15.0\commons-lang3-3.15.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\commons\commons-compress\1.26.2\commons-compress-1.26.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\slf4j\slf4j-api\2.0.13\slf4j-api-2.0.13.jar;C:\Users\kiranjyothi.chala\.m2\repository\ch\qos\logback\logback-classic\1.4.11\logback-classic-1.4.11.jar;C:\Users\kiranjyothi.chala\.m2\repository\ch\qos\logback\logback-core\1.4.11\logback-core-1.4.11.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\testng\testng\7.10.1\testng-7.10.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\cucumber\cucumber-java\7.11.2\cucumber-java-7.11.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\cucumber\cucumber-core\7.11.2\cucumber-core-7.11.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\cucumber\cucumber-gherkin\7.11.2\cucumber-gherkin-7.11.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.11.2\cucumber-gherkin-messages-7.11.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\cucumber\gherkin\26.0.3\gherkin-26.0.3.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\cucumber\messages\21.0.1\messages-21.0.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\cucumber\tag-expressions\5.0.1\tag-expressions-5.0.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\cucumber\cucumber-expressions\16.1.2\cucumber-expressions-16.1.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\cucumber\datatable\7.11.2\datatable-7.11.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\cucumber\cucumber-plugin\7.11.2\cucumber-plugin-7.11.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\cucumber\docstring\7.11.2\docstring-7.11.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\cucumber\html-formatter\20.2.1\html-formatter-20.2.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\cucumber\junit-xml-formatter\0.1.0\junit-xml-formatter-0.1.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\cucumber\ci-environment\9.1.0\ci-environment-9.1.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\cucumber\cucumber-testng\7.11.2\cucumber-testng-7.11.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\rest-assured\rest-assured\5.3.0\rest-assured-5.3.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\groovy\groovy\4.0.6\groovy-4.0.6.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\groovy\groovy-xml\4.0.6\groovy-xml-4.0.6.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\kiranjyothi.chala\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\rest-assured\json-path\5.3.0\json-path-5.3.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\groovy\groovy-json\4.0.6\groovy-json-4.0.6.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\rest-assured\rest-assured-common\5.3.0\rest-assured-common-5.3.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\rest-assured\xml-path\5.3.0\xml-path-5.3.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\aventstack\extentreports\4.0.5\extentreports-4.0.5.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\mongodb\mongodb-driver\3.3.0\mongodb-driver-3.3.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\mongodb\mongodb-driver-core\3.3.0\mongodb-driver-core-3.3.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\mongodb\bson\3.3.0\bson-3.3.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\qameta\allure\allure-testng\2.20.1\allure-testng-2.20.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\qameta\allure\allure-java-commons\2.20.1\allure-java-commons-2.20.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\qameta\allure\allure-model\2.20.1\allure-model-2.20.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\io\qameta\allure\allure-test-filter\2.20.1\allure-test-filter-2.20.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\kiranjyothi.chala\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\logging\log4j\log4j-api\2.18.0\log4j-api-2.18.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;C:\Users\kiranjyothi.chala\.m2\repository\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\github\stephenc\monte\monte-screen-recorder\0.7.7.0\monte-screen-recorder-0.7.7.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\automation-remarks\video-recorder-testng\2.0\video-recorder-testng-2.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\com\automation-remarks\video-recorder-core\2.0\video-recorder-core-2.0.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\aeonbits\owner\owner-java8\1.0.10\owner-java8-1.0.10.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\aeonbits\owner\owner\1.0.10\owner-1.0.10.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\zeroturnaround\zt-exec\1.10\zt-exec-1.10.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\awaitility\awaitility\3.1.6\awaitility-3.1.6.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\hamcrest\hamcrest-library\1.3\hamcrest-library-1.3.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\objenesis\objenesis\2.6\objenesis-2.6.jar;C:\Users\kiranjyothi.chala\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\kiranjyothi.chala\.m2\repository\org\json\json\20180813\json-20180813.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\kiranjyothi.chala\AppData\Local\Temp\surefire18045677723339601515\surefirebooter-20260819215723452_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\kiranjyothi.chala\AppData\Local\Temp\surefire15104719066847121040\surefirebooter-20260819221327237_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.10+8-LTS-217"/>
@@ -59,20 +59,20 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testLogin" classname="tests.LoginTest" time="2.297">
-    <system-out><![CDATA[21:57:23.834 [main] DEBUG org.testng.TestNG -- suiteXmlPath: "C:\TestLeaf\orangehrm\orangehrm\testng.xml"
+  <testcase name="testLogin" classname="tests.LoginTest" time="2.121">
+    <system-out><![CDATA[22:13:27.678 [main] DEBUG org.testng.TestNG -- suiteXmlPath: "C:\TestLeaf\orangehrm\orangehrm\testng.xml"
 ]]></system-out>
-    <system-err><![CDATA[Aug 19, 2026 9:57:25 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+    <system-err><![CDATA[Aug 19, 2026 10:13:29 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find CDP implementation matching 151
-Aug 19, 2026 9:57:25 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+Aug 19, 2026 10:13:29 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
 WARNING: Unable to find version of CDP to use for 151.0.7922.138. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.27.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ]]></system-err>
   </testcase>
-  <testcase name="createEmployee" classname="tests.LoginTest" time="2.073"/>
-  <testcase name="addEmployee" classname="tests.LoginTest" time="7.361"/>
-  <testcase name="verifyIfEmployeeDetailsPageDisplayed" classname="tests.LoginTest" time="0.068"/>
-  <testcase name="editEmployeeDetails" classname="tests.LoginTest" time="13.632"/>
-  <testcase name="apiValidation" classname="tests.LoginTest" time="5.776">
+  <testcase name="createEmployee" classname="tests.LoginTest" time="2.194"/>
+  <testcase name="addEmployee" classname="tests.LoginTest" time="7.277"/>
+  <testcase name="verifyIfEmployeeDetailsPageDisplayed" classname="tests.LoginTest" time="0.101"/>
+  <testcase name="editEmployeeDetails" classname="tests.LoginTest" time="14.598"/>
+  <testcase name="apiValidation" classname="tests.LoginTest" time="4.747">
     <failure message="1 expectation failed.&#10;Expected status code &lt;201&gt; but was &lt;401&gt;.&#10;" type="java.lang.AssertionError"><![CDATA[java.lang.AssertionError: 
 1 expectation failed.
 Expected status code <201> but was <401>.
@@ -140,115 +140,116 @@ Expected status code <201> but was <401>.
 	at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
 	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
 ]]></failure>
-    <system-out><![CDATA[21:57:58.491 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager -- Get connection for route {s}->https://reqres.in:443
-21:57:58.571 [main] DEBUG org.apache.http.impl.conn.DefaultClientConnectionOperator -- Connecting to reqres.in:443
-21:57:59.139 [main] DEBUG org.apache.http.client.protocol.RequestAddCookies -- CookieSpec selected: ignoreCookies
-21:57:59.143 [main] DEBUG org.apache.http.client.protocol.RequestAuthCache -- Auth cache not set in the context
-21:57:59.143 [main] DEBUG org.apache.http.client.protocol.RequestTargetAuthentication -- Target auth state: UNCHALLENGED
-21:57:59.145 [main] DEBUG org.apache.http.client.protocol.RequestProxyAuthentication -- Proxy auth state: UNCHALLENGED
-21:57:59.145 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient -- Attempt 1 to execute request
-21:57:59.145 [main] DEBUG org.apache.http.impl.conn.DefaultClientConnection -- Sending request: POST /api/users HTTP/1.1
-21:57:59.145 [main] DEBUG org.apache.http.wire --  >> "POST /api/users HTTP/1.1[\r][\n]"
-21:57:59.149 [main] DEBUG org.apache.http.wire --  >> "Accept: application/json[\r][\n]"
-21:57:59.149 [main] DEBUG org.apache.http.wire --  >> "Content-Type: application/json[\r][\n]"
-21:57:59.149 [main] DEBUG org.apache.http.wire --  >> "Content-Length: 67[\r][\n]"
-21:57:59.149 [main] DEBUG org.apache.http.wire --  >> "Host: reqres.in[\r][\n]"
-21:57:59.149 [main] DEBUG org.apache.http.wire --  >> "Connection: Keep-Alive[\r][\n]"
-21:57:59.149 [main] DEBUG org.apache.http.wire --  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/21.0.10)[\r][\n]"
-21:57:59.149 [main] DEBUG org.apache.http.wire --  >> "Accept-Encoding: gzip,deflate[\r][\n]"
-21:57:59.149 [main] DEBUG org.apache.http.wire --  >> "[\r][\n]"
-21:57:59.149 [main] DEBUG org.apache.http.headers -- >> POST /api/users HTTP/1.1
-21:57:59.149 [main] DEBUG org.apache.http.headers -- >> Accept: application/json
-21:57:59.149 [main] DEBUG org.apache.http.headers -- >> Content-Type: application/json
-21:57:59.149 [main] DEBUG org.apache.http.headers -- >> Content-Length: 67
-21:57:59.149 [main] DEBUG org.apache.http.headers -- >> Host: reqres.in
-21:57:59.149 [main] DEBUG org.apache.http.headers -- >> Connection: Keep-Alive
-21:57:59.149 [main] DEBUG org.apache.http.headers -- >> User-Agent: Apache-HttpClient/4.5.13 (Java/21.0.10)
-21:57:59.149 [main] DEBUG org.apache.http.headers -- >> Accept-Encoding: gzip,deflate
-21:57:59.149 [main] DEBUG org.apache.http.wire --  >> "{"name":"John Doe","employeeId":"114518","job":"Software Engineer"}"
-21:57:59.443 [main] DEBUG org.apache.http.wire --  << "HTTP/1.1 401 Unauthorized[\r][\n]"
-21:57:59.451 [main] DEBUG org.apache.http.wire --  << "Date: Wed, 19 Aug 2026 16:27:59 GMT[\r][\n]"
-21:57:59.452 [main] DEBUG org.apache.http.wire --  << "Content-Type: application/json; charset=utf-8[\r][\n]"
-21:57:59.452 [main] DEBUG org.apache.http.wire --  << "Content-Length: 854[\r][\n]"
-21:57:59.452 [main] DEBUG org.apache.http.wire --  << "Connection: keep-alive[\r][\n]"
-21:57:59.452 [main] DEBUG org.apache.http.wire --  << "Access-Control-Allow-Origin: *[\r][\n]"
-21:57:59.452 [main] DEBUG org.apache.http.wire --  << "Cache-Control: no-store[\r][\n]"
-21:57:59.453 [main] DEBUG org.apache.http.wire --  << "Cross-Origin-Opener-Policy: same-origin[\r][\n]"
-21:57:59.453 [main] DEBUG org.apache.http.wire --  << "Cross-Origin-Resource-Policy: same-origin[\r][\n]"
-21:57:59.453 [main] DEBUG org.apache.http.wire --  << "Etag: W/"356-3SOBwu5DiW3V62Koj5F7cYGfANE"[\r][\n]"
-21:57:59.453 [main] DEBUG org.apache.http.wire --  << "Nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}[\r][\n]"
-21:57:59.453 [main] DEBUG org.apache.http.wire --  << "Origin-Agent-Cluster: ?1[\r][\n]"
-21:57:59.453 [main] DEBUG org.apache.http.wire --  << "Referrer-Policy: strict-origin-when-cross-origin[\r][\n]"
-21:57:59.453 [main] DEBUG org.apache.http.wire --  << "Report-To: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=nSiRTaL98odAQj9IOZTg0rzxnxRD4TMaqasZkRvqH6s%3D\u0026sid=c4c9725f-1ab0-44d8-820f-430df2718e11\u0026ts=1787156879"}],"max_age":3600}[\r][\n]"
-21:57:59.453 [main] DEBUG org.apache.http.wire --  << "Reporting-Endpoints: heroku-nel="https://nel.heroku.com/reports?s=nSiRTaL98odAQj9IOZTg0rzxnxRD4TMaqasZkRvqH6s%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1787156879"[\r][\n]"
-21:57:59.453 [main] DEBUG org.apache.http.wire --  << "Server: cloudflare[\r][\n]"
-21:57:59.453 [main] DEBUG org.apache.http.wire --  << "Strict-Transport-Security: max-age=31536000; includeSubDomains[\r][\n]"
-21:57:59.453 [main] DEBUG org.apache.http.wire --  << "Via: 1.1 heroku-router[\r][\n]"
-21:57:59.453 [main] DEBUG org.apache.http.wire --  << "X-Content-Type-Options: nosniff[\r][\n]"
-21:57:59.453 [main] DEBUG org.apache.http.wire --  << "X-Dns-Prefetch-Control: off[\r][\n]"
-21:57:59.457 [main] DEBUG org.apache.http.wire --  << "X-Download-Options: noopen[\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.wire --  << "X-Frame-Options: DENY[\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.wire --  << "X-Permitted-Cross-Domain-Policies: none[\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.wire --  << "X-Powered-By: ReqRes.in - Deploy backends in 30 seconds[\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.wire --  << "X-Reqres-Docs: https://reqres.in[\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.wire --  << "X-Reqres-Help: missing_api_key[\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.wire --  << "X-Reqres-Message: This API is powered by ReqRes. Deploy your own backend in 30 seconds![\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.wire --  << "X-Reqres-Templates: https://app.reqres.in/templates[\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.wire --  << "X-Reqres-Tip: Add real user auth to your app with magic codes - reqres.in/docs[\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.wire --  << "X-Reqres-Upgrade: https://app.reqres.in/upgrade[\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.wire --  << "X-Request-Id: d0e1ca62-6153-32d4-a2a4-cc5309b1da53[\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.wire --  << "X-Robots-Tag: noindex, nofollow[\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.wire --  << "X-Xss-Protection: 0[\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.wire --  << "cf-cache-status: DYNAMIC[\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.wire --  << "CF-RAY: a2da875eeedfdfad-BOM[\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.wire --  << "[\r][\n]"
-21:57:59.458 [main] DEBUG org.apache.http.impl.conn.DefaultClientConnection -- Receiving response: HTTP/1.1 401 Unauthorized
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << HTTP/1.1 401 Unauthorized
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Date: Wed, 19 Aug 2026 16:27:59 GMT
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Content-Type: application/json; charset=utf-8
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Content-Length: 854
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Connection: keep-alive
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Access-Control-Allow-Origin: *
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Cache-Control: no-store
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Cross-Origin-Opener-Policy: same-origin
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Cross-Origin-Resource-Policy: same-origin
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Etag: W/"356-3SOBwu5DiW3V62Koj5F7cYGfANE"
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Origin-Agent-Cluster: ?1
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Referrer-Policy: strict-origin-when-cross-origin
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Report-To: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=nSiRTaL98odAQj9IOZTg0rzxnxRD4TMaqasZkRvqH6s%3D\u0026sid=c4c9725f-1ab0-44d8-820f-430df2718e11\u0026ts=1787156879"}],"max_age":3600}
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Reporting-Endpoints: heroku-nel="https://nel.heroku.com/reports?s=nSiRTaL98odAQj9IOZTg0rzxnxRD4TMaqasZkRvqH6s%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1787156879"
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Server: cloudflare
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Strict-Transport-Security: max-age=31536000; includeSubDomains
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << Via: 1.1 heroku-router
-21:57:59.458 [main] DEBUG org.apache.http.headers -- << X-Content-Type-Options: nosniff
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << X-Dns-Prefetch-Control: off
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << X-Download-Options: noopen
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << X-Frame-Options: DENY
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << X-Permitted-Cross-Domain-Policies: none
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << X-Powered-By: ReqRes.in - Deploy backends in 30 seconds
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << X-Reqres-Docs: https://reqres.in
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << X-Reqres-Help: missing_api_key
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << X-Reqres-Message: This API is powered by ReqRes. Deploy your own backend in 30 seconds!
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << X-Reqres-Templates: https://app.reqres.in/templates
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << X-Reqres-Tip: Add real user auth to your app with magic codes - reqres.in/docs
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << X-Reqres-Upgrade: https://app.reqres.in/upgrade
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << X-Request-Id: d0e1ca62-6153-32d4-a2a4-cc5309b1da53
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << X-Robots-Tag: noindex, nofollow
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << X-Xss-Protection: 0
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << cf-cache-status: DYNAMIC
-21:57:59.461 [main] DEBUG org.apache.http.headers -- << CF-RAY: a2da875eeedfdfad-BOM
-21:57:59.465 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient -- Connection can be kept alive indefinitely
-21:57:59.465 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient -- Authentication required
-21:57:59.465 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient -- reqres.in:443 requested authentication
-21:57:59.465 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient -- Response contains no authentication challenges
-21:57:59.477 [main] DEBUG io.restassured.internal.RestAssuredHttpBuilder -- Parsing response as: application/json; charset=utf-8
-21:57:59.479 [main] DEBUG io.restassured.internal.RestAssuredHttpBuilder -- Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+    <system-out><![CDATA[22:14:03.988 [main] DEBUG org.apache.http.impl.conn.BasicClientConnectionManager -- Get connection for route {s}->https://reqres.in:443
+22:14:04.035 [main] DEBUG org.apache.http.impl.conn.DefaultClientConnectionOperator -- Connecting to reqres.in:443
+22:14:04.512 [main] DEBUG org.apache.http.client.protocol.RequestAddCookies -- CookieSpec selected: ignoreCookies
+22:14:04.525 [main] DEBUG org.apache.http.client.protocol.RequestAuthCache -- Auth cache not set in the context
+22:14:04.526 [main] DEBUG org.apache.http.client.protocol.RequestTargetAuthentication -- Target auth state: UNCHALLENGED
+22:14:04.526 [main] DEBUG org.apache.http.client.protocol.RequestProxyAuthentication -- Proxy auth state: UNCHALLENGED
+22:14:04.526 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient -- Attempt 1 to execute request
+22:14:04.528 [main] DEBUG org.apache.http.impl.conn.DefaultClientConnection -- Sending request: POST /api/users HTTP/1.1
+22:14:04.528 [main] DEBUG org.apache.http.wire --  >> "POST /api/users HTTP/1.1[\r][\n]"
+22:14:04.530 [main] DEBUG org.apache.http.wire --  >> "Accept: application/json[\r][\n]"
+22:14:04.530 [main] DEBUG org.apache.http.wire --  >> "Content-Type: application/json[\r][\n]"
+22:14:04.531 [main] DEBUG org.apache.http.wire --  >> "Content-Length: 67[\r][\n]"
+22:14:04.531 [main] DEBUG org.apache.http.wire --  >> "Host: reqres.in[\r][\n]"
+22:14:04.531 [main] DEBUG org.apache.http.wire --  >> "Connection: Keep-Alive[\r][\n]"
+22:14:04.531 [main] DEBUG org.apache.http.wire --  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/21.0.10)[\r][\n]"
+22:14:04.531 [main] DEBUG org.apache.http.wire --  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+22:14:04.533 [main] DEBUG org.apache.http.wire --  >> "[\r][\n]"
+22:14:04.533 [main] DEBUG org.apache.http.headers -- >> POST /api/users HTTP/1.1
+22:14:04.533 [main] DEBUG org.apache.http.headers -- >> Accept: application/json
+22:14:04.533 [main] DEBUG org.apache.http.headers -- >> Content-Type: application/json
+22:14:04.533 [main] DEBUG org.apache.http.headers -- >> Content-Length: 67
+22:14:04.533 [main] DEBUG org.apache.http.headers -- >> Host: reqres.in
+22:14:04.534 [main] DEBUG org.apache.http.headers -- >> Connection: Keep-Alive
+22:14:04.534 [main] DEBUG org.apache.http.headers -- >> User-Agent: Apache-HttpClient/4.5.13 (Java/21.0.10)
+22:14:04.534 [main] DEBUG org.apache.http.headers -- >> Accept-Encoding: gzip,deflate
+22:14:04.535 [main] DEBUG org.apache.http.wire --  >> "{"name":"John Doe","employeeId":"113846","job":"Software Engineer"}"
+22:14:04.818 [main] DEBUG org.apache.http.wire --  << "HTTP/1.1 401 Unauthorized[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Date: Wed, 19 Aug 2026 16:44:04 GMT[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Content-Length: 854[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Connection: keep-alive[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Access-Control-Allow-Origin: *[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Cache-Control: no-store[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Cross-Origin-Opener-Policy: same-origin[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Cross-Origin-Resource-Policy: same-origin[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Etag: W/"356-3SOBwu5DiW3V62Koj5F7cYGfANE"[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Origin-Agent-Cluster: ?1[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Referrer-Policy: strict-origin-when-cross-origin[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Report-To: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=xEko%2B2GOYAZhXUnnulo%2FFBU%2Fzt%2BRvYvoUE42bLtXFpk%3D\u0026sid=c4c9725f-1ab0-44d8-820f-430df2718e11\u0026ts=1787157844"}],"max_age":3600}[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Reporting-Endpoints: heroku-nel="https://nel.heroku.com/reports?s=xEko%2B2GOYAZhXUnnulo%2FFBU%2Fzt%2BRvYvoUE42bLtXFpk%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1787157844"[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Server: cloudflare[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Strict-Transport-Security: max-age=31536000; includeSubDomains[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "Via: 1.1 heroku-router[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "X-Content-Type-Options: nosniff[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "X-Dns-Prefetch-Control: off[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "X-Download-Options: noopen[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "X-Frame-Options: DENY[\r][\n]"
+22:14:04.825 [main] DEBUG org.apache.http.wire --  << "X-Permitted-Cross-Domain-Policies: none[\r][\n]"
+22:14:04.831 [main] DEBUG org.apache.http.wire --  << "X-Powered-By: ReqRes.in - Deploy backends in 30 seconds[\r][\n]"
+22:14:04.831 [main] DEBUG org.apache.http.wire --  << "X-Reqres-Docs: https://reqres.in[\r][\n]"
+22:14:04.831 [main] DEBUG org.apache.http.wire --  << "X-Reqres-Help: missing_api_key[\r][\n]"
+22:14:04.832 [main] DEBUG org.apache.http.wire --  << "X-Reqres-Message: This API is powered by ReqRes. Deploy your own backend in 30 seconds![\r][\n]"
+22:14:04.834 [main] DEBUG org.apache.http.wire --  << "X-Reqres-Templates: https://app.reqres.in/templates[\r][\n]"
+22:14:04.834 [main] DEBUG org.apache.http.wire --  << "X-Reqres-Tip: Generate a complete backend from a description - app.reqres.in/dashboard[\r][\n]"
+22:14:04.834 [main] DEBUG org.apache.http.wire --  << "X-Reqres-Upgrade: https://app.reqres.in/upgrade[\r][\n]"
+22:14:04.834 [main] DEBUG org.apache.http.wire --  << "X-Request-Id: b0714fc3-2eb0-3816-5c17-b2d046b38210[\r][\n]"
+22:14:04.834 [main] DEBUG org.apache.http.wire --  << "X-Robots-Tag: noindex, nofollow[\r][\n]"
+22:14:04.834 [main] DEBUG org.apache.http.wire --  << "X-Xss-Protection: 0[\r][\n]"
+22:14:04.834 [main] DEBUG org.apache.http.wire --  << "cf-cache-status: DYNAMIC[\r][\n]"
+22:14:04.834 [main] DEBUG org.apache.http.wire --  << "CF-RAY: a2da9ef09efc2e56-BOM[\r][\n]"
+22:14:04.834 [main] DEBUG org.apache.http.wire --  << "[\r][\n]"
+22:14:04.836 [main] DEBUG org.apache.http.impl.conn.DefaultClientConnection -- Receiving response: HTTP/1.1 401 Unauthorized
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << HTTP/1.1 401 Unauthorized
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Date: Wed, 19 Aug 2026 16:44:04 GMT
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Content-Type: application/json; charset=utf-8
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Content-Length: 854
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Connection: keep-alive
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Access-Control-Allow-Origin: *
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Cache-Control: no-store
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Cross-Origin-Opener-Policy: same-origin
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Cross-Origin-Resource-Policy: same-origin
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Etag: W/"356-3SOBwu5DiW3V62Koj5F7cYGfANE"
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Origin-Agent-Cluster: ?1
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Referrer-Policy: strict-origin-when-cross-origin
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Report-To: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=xEko%2B2GOYAZhXUnnulo%2FFBU%2Fzt%2BRvYvoUE42bLtXFpk%3D\u0026sid=c4c9725f-1ab0-44d8-820f-430df2718e11\u0026ts=1787157844"}],"max_age":3600}
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Reporting-Endpoints: heroku-nel="https://nel.heroku.com/reports?s=xEko%2B2GOYAZhXUnnulo%2FFBU%2Fzt%2BRvYvoUE42bLtXFpk%3D&sid=c4c9725f-1ab0-44d8-820f-430df2718e11&ts=1787157844"
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Server: cloudflare
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Strict-Transport-Security: max-age=31536000; includeSubDomains
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << Via: 1.1 heroku-router
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << X-Content-Type-Options: nosniff
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << X-Dns-Prefetch-Control: off
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << X-Download-Options: noopen
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << X-Frame-Options: DENY
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << X-Permitted-Cross-Domain-Policies: none
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << X-Powered-By: ReqRes.in - Deploy backends in 30 seconds
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << X-Reqres-Docs: https://reqres.in
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << X-Reqres-Help: missing_api_key
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << X-Reqres-Message: This API is powered by ReqRes. Deploy your own backend in 30 seconds!
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << X-Reqres-Templates: https://app.reqres.in/templates
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << X-Reqres-Tip: Generate a complete backend from a description - app.reqres.in/dashboard
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << X-Reqres-Upgrade: https://app.reqres.in/upgrade
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << X-Request-Id: b0714fc3-2eb0-3816-5c17-b2d046b38210
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << X-Robots-Tag: noindex, nofollow
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << X-Xss-Protection: 0
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << cf-cache-status: DYNAMIC
+22:14:04.836 [main] DEBUG org.apache.http.headers -- << CF-RAY: a2da9ef09efc2e56-BOM
+22:14:04.848 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient -- Connection can be kept alive indefinitely
+22:14:04.848 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient -- Authentication required
+22:14:04.848 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient -- reqres.in:443 requested authentication
+22:14:04.852 [main] DEBUG org.apache.http.impl.client.DefaultHttpClient -- Response contains no authentication challenges
+22:14:04.866 [main] DEBUG io.restassured.internal.RestAssuredHttpBuilder -- Parsing response as: application/json; charset=utf-8
+22:14:04.866 [main] DEBUG io.restassured.internal.RestAssuredHttpBuilder -- Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
 ]]></system-out>
   </testcase>
-  <testcase name="deleteEmployee" classname="tests.LoginTest" time="1.21">
-    <system-out><![CDATA[Deleted successfully
+  <testcase name="deleteEmployee" classname="tests.LoginTest" time="1.089">
+    <system-out><![CDATA[22:14:05.721 [Finalizer] DEBUG org.apache.http.impl.conn.DefaultClientConnection -- Connection 0.0.0.0:65264<->172.67.73.173:443 closed
+Deleted successfully
 ]]></system-out>
   </testcase>
-  <testcase name="logout" classname="tests.LoginTest" time="0.961"/>
+  <testcase name="logout" classname="tests.LoginTest" time="0.933"/>
 </testsuite>

@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="8" passed="7" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-08-19T21:57:24 IST" name="DemoSuite" finished-at="2026-08-19T21:58:02 IST" duration-ms="38694">
+  <suite started-at="2026-08-19T22:13:28 IST" name="DemoSuite" finished-at="2026-08-19T22:14:07 IST" duration-ms="39840">
     <groups>
     </groups>
-    <test started-at="2026-08-19T21:57:24 IST" name="EndToEndWorkflow" finished-at="2026-08-19T21:58:02 IST" duration-ms="38694">
+    <test started-at="2026-08-19T22:13:28 IST" name="EndToEndWorkflow" finished-at="2026-08-19T22:14:07 IST" duration-ms="39840">
       <class name="tests.LoginTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T21:57:24 IST" name="setup" finished-at="2026-08-19T21:57:28 IST" duration-ms="4493" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T22:13:28 IST" name="setup" finished-at="2026-08-19T22:13:33 IST" duration-ms="5963" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testLogin()[pri:1, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T21:57:28 IST" name="testLogin" finished-at="2026-08-19T21:57:30 IST" duration-ms="2240" status="PASS">
+        <test-method signature="testLogin()[pri:1, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T22:13:34 IST" name="testLogin" finished-at="2026-08-19T22:13:36 IST" duration-ms="2011" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
-        <test-method signature="createEmployee()[pri:2, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T21:57:30 IST" name="createEmployee" finished-at="2026-08-19T21:57:32 IST" duration-ms="2062" status="PASS">
+        <test-method signature="createEmployee()[pri:2, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T22:13:36 IST" name="createEmployee" finished-at="2026-08-19T22:13:38 IST" duration-ms="2177" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createEmployee -->
-        <test-method signature="addEmployee()[pri:3, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T21:57:33 IST" name="addEmployee" finished-at="2026-08-19T21:57:40 IST" duration-ms="7351" status="PASS">
+        <test-method signature="addEmployee()[pri:3, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T22:13:38 IST" name="addEmployee" finished-at="2026-08-19T22:13:45 IST" duration-ms="7271" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addEmployee -->
-        <test-method signature="verifyIfEmployeeDetailsPageDisplayed()[pri:4, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T21:57:40 IST" name="verifyIfEmployeeDetailsPageDisplayed" finished-at="2026-08-19T21:57:40 IST" duration-ms="69" status="PASS">
+        <test-method signature="verifyIfEmployeeDetailsPageDisplayed()[pri:4, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T22:13:45 IST" name="verifyIfEmployeeDetailsPageDisplayed" finished-at="2026-08-19T22:13:45 IST" duration-ms="95" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyIfEmployeeDetailsPageDisplayed -->
-        <test-method signature="editEmployeeDetails()[pri:5, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T21:57:40 IST" name="editEmployeeDetails" finished-at="2026-08-19T21:57:54 IST" duration-ms="13621" status="PASS">
+        <test-method signature="editEmployeeDetails()[pri:5, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T22:13:45 IST" name="editEmployeeDetails" finished-at="2026-08-19T22:14:00 IST" duration-ms="14599" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- editEmployeeDetails -->
-        <test-method signature="apiValidation()[pri:6, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T21:57:54 IST" name="apiValidation" finished-at="2026-08-19T21:57:59 IST" duration-ms="5761" status="FAIL">
+        <test-method signature="apiValidation()[pri:6, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T22:14:00 IST" name="apiValidation" finished-at="2026-08-19T22:14:05 IST" duration-ms="4721" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[1 expectation failed.
@@ -110,15 +110,15 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- apiValidation -->
-        <test-method signature="deleteEmployee()[pri:7, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T21:57:59 IST" name="deleteEmployee" finished-at="2026-08-19T21:58:01 IST" duration-ms="1206" status="PASS">
+        <test-method signature="deleteEmployee()[pri:7, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T22:14:05 IST" name="deleteEmployee" finished-at="2026-08-19T22:14:06 IST" duration-ms="1088" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deleteEmployee -->
-        <test-method signature="logout()[pri:8, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T21:58:01 IST" name="logout" finished-at="2026-08-19T21:58:02 IST" duration-ms="961" status="PASS">
+        <test-method signature="logout()[pri:8, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T22:14:06 IST" name="logout" finished-at="2026-08-19T22:14:07 IST" duration-ms="931" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T21:58:02 IST" name="teardown" finished-at="2026-08-19T21:58:02 IST" duration-ms="774" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.LoginTest@51a9ad5e]" started-at="2026-08-19T22:14:07 IST" name="teardown" finished-at="2026-08-19T22:14:07 IST" duration-ms="777" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
